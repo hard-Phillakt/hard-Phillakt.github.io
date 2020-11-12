@@ -8,11 +8,11 @@
             "description": "Описание 3",
             "content": "",
             "keywords": "Ключевые слова, комедии, ужасы",
-            "sourceVideo": "http://proxy-middleware.com/video/one.mp4",
+            "sourceVideo": "https://hard-phillakt.github.io/one.mp4",
             "posterImg": "https://example.com/category/big_tits/alina_purple/preview_img/preview.webp",
             "date": "2020-10-15",
             "publishDate": 1434449005,
-            "proxyServerUrlVideo": "https://hard-phillakt.github.io/video/one.mp4"
+            "proxyServerUrlVideo": "http://localhost:3100/one.mp4"
         },
         {
             "id": 2,
@@ -21,11 +21,11 @@
             "description": "Описание 2",
             "content": "",
             "keywords": "Ключевые слова, комедии, ужасы",
-            "sourceVideo": "http://proxy-middleware.com/video/one.mp4",
+            "sourceVideo": "https://hard-phillakt.github.io/one.mp4",
             "posterImg": "https://example.com/category/big_tits/alina_purple/preview_img/preview.webp",
             "date": "2020-10-15",
             "publishDate": 1434449005,
-            "proxyServerUrlVideo": "https://hard-phillakt.github.io/video/one.mp4"
+            "proxyServerUrlVideo": "http://localhost:3100/one.mp4"
         },
         {
             "id": 3,
@@ -34,11 +34,11 @@
             "description": "Описание 3",
             "content": "",
             "keywords": "Ключевые слова, комедии, ужасы",
-            "sourceVideo": "http://proxy-middleware.com/video/one.mp4",
+            "sourceVideo": "https://hard-phillakt.github.io/one.mp4",
             "posterImg": "https://example.com/category/big_tits/alina_purple/preview_img/preview.webp",
             "date": "2020-10-15",
             "publishDate": 1434449005,
-            "proxyServerUrlVideo": "https://hard-phillakt.github.io/video/one.mp4"
+            "proxyServerUrlVideo": "http://localhost:3100/one.mp4"
         }        
     ]
 }
